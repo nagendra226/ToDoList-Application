@@ -1,0 +1,20 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "to do list app for tracking daily items",
+  "main": "apps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nagendra Babu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "days": "^1.1.1",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "jslinter": "^1.5.47",
+    "prettier": "^2.0.5",
+    "today-date-detail": "^1.0.2"
+  }
+}
